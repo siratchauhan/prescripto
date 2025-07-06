@@ -93,7 +93,7 @@ const Navbar = () => {
 
             {/* ✅ Admin Panel Link in Mobile */}
           <a
-  href="https://admin-panel-rose-kappa.vercel.app/"
+  href="https://admin-panel-git-main-siratchauhans-projects.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
 >
