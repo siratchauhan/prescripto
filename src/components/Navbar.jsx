@@ -31,7 +31,7 @@ const Navbar = () => {
 
         {/* ✅ Admin Panel Button */}
         <a
-          href="https://admin-prescripto.vercel.app"
+          href="https://admin-panel-rose-kappa.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="py-1 px-3 border rounded-full hover:bg-black hover:text-white transition"
@@ -93,7 +93,7 @@ const Navbar = () => {
 
             {/* ✅ Admin Panel Link in Mobile */}
           <a
-  href="https://admin-panel-git-main-siratchauhans-projects.vercel.app/"
+  href="https://admin-panel-rose-kappa.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
 >
