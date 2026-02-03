@@ -35,7 +35,7 @@ This project was independently built and deployed as part of my **hands-on learn
 
 ### Database
 
-* **MongoDB / PostgreSQL** *(whichever you used – update one)*
+* **MongoDB / PostgreSQL**
 
 ### Other Tools
 
@@ -58,7 +58,8 @@ This project was independently built and deployed as part of my **hands-on learn
 ---
 
 ## 📸 Screenshots / Demo
-
+🔗 Live Demo:
+https://prescripto-bay.vercel.app/
 📹 **Demo Video / LinkedIn Post:**
 👉 [View on LinkedIn](https://www.linkedin.com/posts/sirat-chauhan-33a871273_just-deployed-prescripto-a-full-stack-activity-7347862049202327554)
 
